@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv
+
+# VS code dependency
+.vscode
+5_Analysis/__pycache__
+.DS_Store
+
+# Unwanted Documents
+1_Governance/IST_691_Deep_Learning_Project_Report.docx
+1_Governance/IST_691_Deep_Learning_Project_Report.pdf
+
+# Model folders
+2_Generation/catchphrase_Extraction
+2_Generation/citation_classification
+
+# Data files
+2_Generation/extracted_data
+2_Generation/filtered_data
